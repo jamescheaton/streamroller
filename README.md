@@ -10,4 +10,4 @@ But before any of this, we need to see if it is possible to make a profit doing 
 
 We have to conistently identify odds that will shorten / lengthen by a significant amount to make profit. If the odds movements are too small, we would have to stake very large amounts for a small reward, and so a false positive becomes extremely risky. We need to factor in exchange commission as well.
 
-The first part of this project will be analysing historical data to determine the correlation between odds movements and team information. We can get historical price data from Betfair. For the sentiment side, we need to find accounts that consistently post reliable news ahead of the rest of the pack. Think 'leakers', but these are conistently unreliable.
+The first part of this project will be analysing historical data to determine the correlation between odds movements and team information. We can get historical price data from Betfair. For the sentiment side, we need to find accounts that consistently post reliable news ahead of the rest of the pack. Think 'leakers', but these are consistently unreliable.
